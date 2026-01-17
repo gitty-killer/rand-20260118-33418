@@ -1,0 +1,13 @@
+{
+  "project_title": "Budget Allocator",
+  "goal": "Compare spending against target allocations and surface drift.",
+  "entity_name": "budget_item",
+  "amount_label": "cost",
+  "score_label": "variance_score",
+  "categories": [
+    "ops",
+    "growth",
+    "r_and_d",
+    "people"
+  ]
+}
